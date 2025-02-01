@@ -513,7 +513,13 @@ const Dashboard = () => {
     <Container>
       <Title>Hisobga kirdingiz!</Title>
       {user.link !== "none" ? (
-        <Button as="a" href={user.link} target="_blank">
+        <Button
+          as="a"
+          href={
+            "https://docs.google.com/spreadsheets/d/10cjbPOLVYoYj3Yrdtlfv0pLRXi7OoA7yQ3zLUKZgXew/edit?usp=sharing"
+          }
+          target="_blank"
+        >
           Davomatga o‘tish
         </Button>
       ) : (
