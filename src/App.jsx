@@ -361,7 +361,7 @@ const Container = styled.div`
   align-items: center;
   justify-content: center;
   width: 90%;
-  max-width: 400px;
+  max-width: 300px;
   background: #2b2b2b;
   border-radius: 12px;
   padding: 40px 30px;
