@@ -218,7 +218,7 @@ const users = [
   },
   {
     login: "Raxmatullayeva2025",
-    password: "Nvpmm2025",
+    password: "Gulbahor2025",
     link: "https://docs.google.com/spreadsheets/d/1OEiXve0r9cDBOtK_hQE2ZTjFq5Aeoy2RH66XoyuSc5c/edit?gid=0#gid=0",
   },
   {
@@ -350,6 +350,21 @@ const users = [
   {
     login: "Sattarova2025",
     password: "Sattarova2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "muhammadyusuf",
+    password: "11232023",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "muhammadyusuf",
+    password: "11232023",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "muhammadyusuf",
+    password: "11232023",
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
   {
