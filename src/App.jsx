@@ -358,20 +358,11 @@ const users = [
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
   {
-    login: "muhammadyusuf",
-    password: "11232023",
+    login: "NabiyevBahodir",
+    password: "Bahodir0092",
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
-  {
-    login: "muhammadyusuf",
-    password: "11232023",
-    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
-  },
-  {
-    login: "muhammadyusuf",
-    password: "11232023",
-    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
-  },
+  ,
   { login: "Admin", password: "#Admin", link: "none" },
   { login: "Admin", password: "#Admin", link: "none" },
   { login: "Admin", password: "#Admin", link: "none" },
