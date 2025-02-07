@@ -368,9 +368,36 @@ const users = [
     password: "2824",
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
-  { login: "Asqarova2025", password: "Asqarova2025", link: "none" },
-  { login: "Javlon_1994", password: "Javlon_2025", link: "none" },
-  { login: "Ravshanoy_2025", password: "Ravshanoy_2025", link: "none" },
+  {
+    login: "Asqarova2025",
+    password: "Asqarova2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Javlon_1994",
+    password: "Javlon_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Ravshanoy_2025",
+    password: "Ravshanoy_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Farhodjon_2025",
+    password: "Farhodjon_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Mahliyo_2025",
+    password: "Mahliyo_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Botirova2025",
+    password: "Botirova2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
   { login: "Admin", password: "#Admin", link: "none" },
 ];
 
