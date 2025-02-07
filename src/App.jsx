@@ -625,7 +625,7 @@ const AuthProvider = ({ children }) => {
   const login = (credentials) => {
     const foundUser = users.find(
       (u) =>
-        u.login === credentials.login && u.password === credentials.password
+        u?.login === credentials.login && u?.password === credentials.password
     );
     if (foundUser) {
       setUser(foundUser);
