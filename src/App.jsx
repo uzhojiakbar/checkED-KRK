@@ -408,6 +408,11 @@ const users = [
     password: "AAbdullayev_2025",
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
+  {
+    login: "Mohira_2025",
+    password: "Mohira_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
   { login: "Admin", password: "#Admin", link: "none" },
 ];
 
