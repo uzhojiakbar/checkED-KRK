@@ -413,6 +413,16 @@ const users = [
     password: "Mohira_2025",
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
+  {
+    login: "Kolyaniskova_2025",
+    password: "Tatyana_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Qarabayev_2025",
+    password: "Jamshid_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
   { login: "Admin", password: "#Admin", link: "none" },
 ];
 
