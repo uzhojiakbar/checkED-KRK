@@ -446,6 +446,51 @@ const users = [
     password: "Nazarova_2025",
     link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
   },
+  {
+    login: "Risolat_2025",
+    password: "Risolat_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Nazarova_2025",
+    password: "Nazarova_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Davlatov_2025",
+    password: "Davlatov_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Gulhayo_2025",
+    password: "Gulhayo_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Leniye_2025",
+    password: "Leniye_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Nurullo_2025",
+    password: "Nurullo_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Mirlaziz_2025",
+    password: "Mirlaziz_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Azizbek_2025",
+    password: "Azizbek_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
+  {
+    login: "Qurbonov_2025",
+    password: "Qurbonov_2025",
+    link: "https://docs.google.com/spreadsheets/d/1tUglXspyXpccLFW2dGfPCEmqB-o4Qb6eNHLjvDJTt9I/edit?gid=0#gid=0",
+  },
   { login: "Admin", password: "#Admin", link: "none" },
 ];
 
