@@ -20,6 +20,10 @@ const users = [
     login: "Voxabov2025",
     password: "Nvpmm2025",
     link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
+  }, {
+    login: "Otabek_2025",
+    password: "Otabek_2025",
+    link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
   },
     {
     login: "Komiljon_2025",
