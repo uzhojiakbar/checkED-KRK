@@ -17,10 +17,36 @@ const users = [
     link: "https://youtube.com",
   },
   {
+    login: "Yodgora_2025",
+    password: "Yodgora-2025",
+    link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
+  },
+    {
+    login: "Sevinchxon_2025",
+    password: "Sevinchxon-2025",
+    link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
+  },
+    {
+    login: "Azizbek_2025",
+    password: "Azizbek-2025",
+    link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
+  },
+    {
+    login: "Maloxat_2025",
+    password: "Maloxat-2025",
+    link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
+  },
+    {
+    login: "Ikromov_2025",
+    password: "Ikromov-2025",
+    link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
+  },
+    {
     login: "Voxabov2025",
     password: "Nvpmm2025",
     link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
-  }, {
+  },
+  {
     login: "Otabek_2025",
     password: "Otabek_2025",
     link: "https://docs.google.com/spreadsheets/d/1eUcgK6ebkbijY5Jx1DmiKovhCdDusvi9KrYeplowDQs/edit?gid=0#gid=0",
